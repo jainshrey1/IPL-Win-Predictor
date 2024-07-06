@@ -43,21 +43,34 @@ pandas
 Streamlit
 
 ## Installation
+
 To run this project locally, follow these steps:
 
-Clone the repository to your local machine using this command:
+1. **Clone the repository to your local machine using this command:**
 
-git clone https://github.com/rajatrawal/ipl-win-predictor.git
-Navigate to the project directory:
+    ```sh
+    git clone https://github.com/jainshrey1/ipl-win-predictor.git
+    ```
 
-cd ipl-win-predictor
-Install the required Python libraries:
+2. **Navigate to the project directory:**
 
-pip install -r requirements.txt
-Run the Streamlit app locally:
+    ```sh
+    cd ipl-win-predictor
+    ```
 
-streamlit run app.py
-Open the provided local URL in your web browser to access the IPL Win Predictor.
+3. **Install the required Python libraries:**
+
+    ```sh
+    pip install -r requirements.txt
+    ```
+
+4. **Run the Streamlit app locally:**
+
+    ```sh
+    streamlit run app.py
+    ```
+
+5. **Open the provided local URL in your web browser to access the IPL Win Predictor.**
 
 ## Usage
 To make predictions, provide the current match situation including team performance, player statistics, and match conditions. The predictor will calculate the probability of a team winning.
