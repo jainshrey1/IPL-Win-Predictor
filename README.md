@@ -76,7 +76,7 @@ To run this project locally, follow these steps:
 To make predictions, provide the current match situation including team performance, player statistics, and match conditions. The predictor will calculate the probability of a team winning.
 
 Predict with Confidence
-Explore the "IPL Win Predictor" and make data-driven predictions about IPL match outcomes. Get real-time insights and enhance your understanding of match dynamics. Visit the Live Demo and elevate your cricket analysis.
+Explore the "IPL Win Predictor" and make data-driven predictions about IPL match outcomes. Get real-time insights and enhance your understanding of match dynamics. Visit the Live Demo and elevate your cricket analysis https://ipl-win-predictor-shrey.streamlit.app/
 
 ## Contribute
 If you'd like to contribute to this project or have suggestions for improvement, please feel free to submit issues or pull requests on GitHub.
