@@ -1,6 +1,6 @@
 ## IPL Win Predictor
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Predictor-brightgreen)]([https://share.streamlit.io/yourusername/ipl-win-predictor/main/app.py](https://ipl-win-predictor-shrey.streamlit.app/))
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Predictor-brightgreen)]((https://ipl-win-predictor-shrey.streamlit.app/))
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue)](https://github.com/yourusername/ipl-win-predictor)
 [![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.9-blue)]
