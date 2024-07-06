@@ -16,5 +16,5 @@ Welcome to the "IPL Win Predictor" project! This machine learning model, built u
 The "IPL Win Predictor" leverages logistic regression to provide insights into the probability of a team winning an IPL match. This model analyzes various match features, team performance, and player statistics to offer real-time predictions.
 
 ## Project Preview
-![IPL Win Predictor](path_to_your_image.png)
+![IPL Win Predictor]("C:\Users\shrey\OneDrive\Desktop\Ipl.png")
 ...
